@@ -15,6 +15,9 @@ I started coding as a kid and still build outside of work. Lately I’ve focused
 - Earlier explorations include an [English-to-Cantonese translation prototype](https://colab.research.google.com/drive/1gOyMHlz5HvYn_cCInX9zLOOe1qHeu91b#scrollTo=VbznzOeCzvL) in TensorFlow.
 - Built a [digit recognition project](https://vincentchu.com/digitrecognition.html) exploring handwritten digit classification.
 
+## npm 
+- **[Packages published via npm](https://www.npmjs.com/search?q=chuvincent)**: Helpful libraries, including fixes from forked library.
+
 ## Previous projects
 - **[WordTile](https://github.com/chuvincent/WordTile)**: web-based word game with multi-language support.
 - **[PyImageMagick-7.0.11-Docker](https://github.com/chuvincent/PyImageMagick-7.0.11-Docker)**: Docker image for a newer ImageMagick with Python.
