@@ -23,6 +23,7 @@ I started coding as a kid and still build outside of work. Lately I’ve focused
 - **[PyImageMagick-7.0.11-Docker](https://github.com/chuvincent/PyImageMagick-7.0.11-Docker)**: Docker image for a newer ImageMagick with Python.
 - **[random-scripts](https://github.com/chuvincent/random-scripts)**: small scripts readers can re-use for my posts on Medium.
 - **[random-thoughts](https://github.com/chuvincent/random-thoughts)**: blogging and other publications.
+- **[ASCII Art Steganography](http://pictureworthsthousandwords.appspot.com/)**: hide and embed secret files inside an ASCII art.
 
 
 ## Work 
