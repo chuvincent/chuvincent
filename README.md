@@ -6,6 +6,7 @@ I started coding as a kid and still build outside of work. Lately I’ve focused
 
 ## Current focus (2023–present)
 - **[Read Aloud EBook](https://apps.apple.com/ca/app/read-aloud-ebook/id6748571026)**: turn ebooks into audiobooks with local LLM summaries.
+- **[Bookletto for Family](https://apps.apple.com/ca/app/bookletto-for-family/id6759843812)**: create personalized stories with on-device AI and enjoy them with built-in read-aloud playback.
 - **[CJExplorer](https://apps.apple.com/us/app/cjexplorer/id6477356973)**: OCR + computer vision for instant language lookup.
 - **[Receiptopia](https://apps.apple.com/ca/app/receiptopia/id6475173830)**: on-device OCR for receipt scanning and categorization.
 - **[Spanish or Vanish](https://apps.apple.com/ca/app/spanish-or-vanish/id6747052572)**: vocabulary game that uses computer vision to identify objects.
