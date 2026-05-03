@@ -18,7 +18,7 @@ I started coding as a kid and still build outside of work. Lately I’ve focused
 - Built a [digit recognition project](https://vincentchu.com/digitrecognition.html) exploring handwritten digit classification.
 
 ## npm 
-- **[Packages published via npm](https://www.npmjs.com/search?q=chuvincent)**: Helpful libraries, including fixes from forked library.
+- **[Packages published via npm](https://www.npmjs.com/~chuvincent)**: Helpful libraries, including fixes from forked library.
 
 ## Previous projects
 - **[WordTile](https://github.com/chuvincent/WordTile)**: web-based word game with multi-language support.
