@@ -8,6 +8,7 @@ I started coding as a kid and still build outside of work. Lately I’ve focused
 - **[Read Aloud EBook](https://apps.apple.com/ca/app/read-aloud-ebook/id6748571026)**: turn ebooks into audiobooks with local LLM summaries.
 - **[Bookletto for Family](https://apps.apple.com/ca/app/bookletto-for-family/id6759843812)**: create personalized stories with on-device AI and enjoy them with built-in read-aloud playback.
 - **[Video Twin Finder](https://apps.apple.com/ca/app/videotwin-finder/id6762066614?mt=12)**: native macOS app for finding exact duplicate and visually similar videos, with side-by-side review, metadata inspection, cached rescans, and Finder/Trash cleanup workflows.
+- **[Filibuster](https://apps.apple.com/us/app/filibuster/id6767947673)**: generate lively spoken monologues from custom or suggested topics, streaming local LLM output into text-to-speech in real time.
 - **[CJExplorer](https://apps.apple.com/us/app/cjexplorer/id6477356973)**: OCR + computer vision for instant language lookup.
 - **[Receiptopia](https://apps.apple.com/ca/app/receiptopia/id6475173830)**: on-device OCR for receipt scanning and categorization.
 - **[Spanish or Vanish](https://apps.apple.com/ca/app/spanish-or-vanish/id6747052572)**: vocabulary game that uses computer vision to identify objects.
