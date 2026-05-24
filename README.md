@@ -8,7 +8,7 @@ I started coding as a kid and still build outside of work. Lately I’ve focused
 - **[Read Aloud EBook](https://apps.apple.com/ca/app/read-aloud-ebook/id6748571026)**: turn ebooks into audiobooks with local LLM summaries.
 - **[Bookletto for Family](https://apps.apple.com/ca/app/bookletto-for-family/id6759843812)**: create personalized stories with on-device AI and enjoy them with built-in read-aloud playback.
 - **[Video Twin Finder](https://apps.apple.com/ca/app/videotwin-finder/id6762066614?mt=12)**: native macOS app for finding exact duplicate and visually similar videos, with side-by-side review, metadata inspection, cached rescans, and Finder/Trash cleanup workflows.
-- **[Simple Clipboard Manager AI](http://vincentchu.com/projects/SimpleClipboardManager-1.0.0-1.0.0.dmg)**: macOS menu bar clipboard manager for clipboard history, Markdown and rich text conversion, OCR, snippets, and private on-device AI enhancements.
+- **[Simple Clipboard Manager AI](https://vincentchu.com/simpleclipboardmanager.html)**: macOS menu bar clipboard manager for clipboard history, Markdown and rich text conversion, OCR, snippets, and private on-device AI enhancements.
 - **[Filibuster](https://apps.apple.com/us/app/filibuster/id6767947673)**: generate lively spoken monologues from custom or suggested topics, streaming local LLM output into text-to-speech in real time.
 - **[SpeechTrack](https://apps.apple.com/us/app/speech-track/id6770347196)**: build precisely timed talk tracks with local Apple voices, preview the result, and export one shareable audio file without cloud TTS fees.
 - **[CJExplorer](https://apps.apple.com/us/app/cjexplorer/id6477356973)**: OCR + computer vision for instant language lookup.
