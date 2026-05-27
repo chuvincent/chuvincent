@@ -16,6 +16,7 @@ I started coding as a kid and still build outside of work. Lately I’ve focused
 - **[Spanish or Vanish](https://apps.apple.com/ca/app/spanish-or-vanish/id6747052572)**: vocabulary game that uses computer vision to identify objects.
 
 ## AI experiments
+- Local LLM app projects: **[Read Aloud EBook](https://apps.apple.com/ca/app/read-aloud-ebook/id6748571026)**, **[Bookletto for Family](https://apps.apple.com/ca/app/bookletto-for-family/id6759843812)**, **[Simple Clipboard Manager AI](https://vincentchu.com/simpleclipboardmanager.html)**, and **[Filibuster](https://apps.apple.com/us/app/filibuster/id6767947673)**.
 - Built a personal [chat bot](https://chat.vincentchu.com) in Feb 2024 with React, OpenAI, Python, and Flask, trained on my resume and writing.
 - Earlier explorations include an [English-to-Cantonese translation prototype](https://colab.research.google.com/drive/1gOyMHlz5HvYn_cCInX9zLOOe1qHeu91b#scrollTo=VbznzOeCzvL) in TensorFlow.
 - Built a [digit recognition project](https://vincentchu.com/digitrecognition.html) exploring handwritten digit classification.
