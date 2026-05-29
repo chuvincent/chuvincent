@@ -36,3 +36,4 @@ I started coding as a kid and still build outside of work. Lately I’ve focused
 
 When I am not coding for fun, I code for work.  
 - [Visier](https://github.com/visier): Visier is a people analytics company focused on AI-powered workforce insights. Its platform helps organizations bring people and work data together to deliver workforce intelligence and support better decisions across the employee lifecycle.  
+  - [Engineering Blog](https://engineering.visier.com)
