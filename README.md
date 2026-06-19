@@ -5,6 +5,7 @@ Product & engineering leader in SaaS. Tinkerer and builder of privacy-first apps
 I started coding as a kid and still build outside of work. Lately I’ve focused on iOS and Mac apps with React Native, leaning into on-device AI and ML so they work offline and keep data private.
 
 ## Current side projects (2023–present)
+- **[Status Watch](https://apps.apple.com/us/app/status-watch/id6780112551)**: native iPhone and Apple Watch utility that mirrors iPhone battery, charging, network, Low Power Mode, and thermal status to the watch app and complications.
 - **[Read Aloud EBook](https://apps.apple.com/ca/app/read-aloud-ebook/id6748571026)**: turn ebooks into audiobooks with local LLM summaries.
 - **[Bookletto for Family](https://apps.apple.com/ca/app/bookletto-for-family/id6759843812)**: create personalized stories with on-device AI and enjoy them with built-in read-aloud playback.
 - **[Video Twin Finder](https://apps.apple.com/ca/app/videotwin-finder/id6762066614?mt=12)**: native macOS app for finding exact duplicate and visually similar videos, with side-by-side review, metadata inspection, cached rescans, and Finder/Trash cleanup workflows.
