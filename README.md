@@ -6,6 +6,10 @@ I started coding as a kid and still build outside of work. Lately I’ve focused
 
 ## Shipped Products (2023–present)
 
+### Games
+
+- **[Neil at Large](https://apps.apple.com/us/app/neil-at-large/id6796547983)**: a playful coastal-town puzzle adventure about causing good-natured chaos as a very determined elephant seal.
+
 ### Private AI & Media Tools
 
 - **[Read Aloud EBook](https://apps.apple.com/ca/app/read-aloud-ebook/id6748571026)**: turn ebooks into audiobooks with local LLM summaries.
