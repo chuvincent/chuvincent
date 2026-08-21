@@ -27,6 +27,7 @@ I started coding as a kid and still build outside of work. Lately I’ve focused
 
 ### Productivity, Utilities & Apple Watch
 
+- **[PantryIQ: Smart Food](https://apps.apple.com/us/app/pantryiq-smart-food/id6763966068)**: offline-first kitchen inventory with barcode scanning, expiry tracking, on-device recipe matching, and focused shopping plans.
 - **[Sheet Watch](https://apps.apple.com/ca/app/sheet-watch/id6782436904)**: native iPhone and Apple Watch app for showing one Google Sheets cell in the watch app and watch face complications.
 - **[Status Watch](https://apps.apple.com/us/app/status-watch/id6780112551)**: native iPhone and Apple Watch utility that mirrors iPhone battery, charging, network, Low Power Mode, and thermal status to the watch app and complications.
 - **[PhotoPoke](https://github.com/chuvincent/mac-photos-poke)**: macOS SwiftUI utility that asks PhotoKit to fetch iCloud Photos originals into the local Photos library cache without exporting or modifying assets.
