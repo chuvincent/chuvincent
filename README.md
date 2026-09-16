@@ -15,7 +15,7 @@ I started coding as a kid and still build outside of work. Lately I’ve focused
 - **[Read Aloud EBook](https://apps.apple.com/ca/app/read-aloud-ebook/id6748571026)**: turn ebooks into audiobooks with local LLM summaries.
 - **[Bookletto for Family](https://apps.apple.com/ca/app/bookletto-for-family/id6759843812)**: create personalized stories with on-device AI and enjoy them with built-in read-aloud playback.
 - **[Video Twin Finder](https://apps.apple.com/ca/app/videotwin-finder/id6762066614?mt=12)**: native macOS app for finding exact duplicate and visually similar videos, with side-by-side review, metadata inspection, cached rescans, and Finder/Trash cleanup workflows.
-- **[Video Atlas](https://apps.apple.com/app/video-atlas/id6792364636)**: native macOS app with an iPhone and iPad companion for indexing private video collections, semantic scene search, duplicate review, and local-network streaming.
+- **[Video Atlas](https://apps.apple.com/app/video-atlas-video-search/id6792364636?platform=mac)**: native macOS app with an iPhone and iPad companion for indexing private video collections, semantic scene search, duplicate review, and local-network streaming.
 - **[ReviveFrame](https://apps.apple.com/app/reviveframe/id6787512969)**: native macOS app for restoring and upscaling low-resolution home movies and archive clips locally, with side-by-side comparison and MP4 export.
 - **[Filibuster](https://apps.apple.com/us/app/filibuster/id6767947673)**: generate lively spoken monologues from custom or suggested topics, streaming local LLM output into text-to-speech in real time.
 
