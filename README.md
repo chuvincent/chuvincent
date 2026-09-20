@@ -27,6 +27,7 @@ I started coding as a kid and still build outside of work. Lately I’ve focused
 
 ### Productivity, Utilities & Apple Watch
 
+- **[NetCurb](https://apps.apple.com/app/netcurb-data-usage-monitor/id6809676360)**: native macOS data usage monitor for controlling which apps can use a tethered connection, setting per-app limits, and tracking usage across network profiles.
 - **[PantryIQ: Smart Food](https://apps.apple.com/us/app/pantryiq-smart-food/id6763966068)**: offline-first kitchen inventory with barcode scanning, expiry tracking, on-device recipe matching, and focused shopping plans.
 - **[Sheet Watch](https://apps.apple.com/ca/app/sheet-watch/id6782436904)**: native iPhone and Apple Watch app for showing one Google Sheets cell in the watch app and watch face complications.
 - **[Status Watch](https://apps.apple.com/us/app/status-watch/id6780112551)**: native iPhone and Apple Watch utility that mirrors iPhone battery, charging, network, Low Power Mode, and thermal status to the watch app and complications.
