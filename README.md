@@ -8,6 +8,7 @@ I started coding as a kid and still build outside of work. Lately I’ve focused
 
 ### Games
 
+- **[Winnie at Large](https://apps.apple.com/app/id6833679039)**: a cosy puzzle adventure for iPhone and iPad about exploring an Australian beach town as a curious wombat, foraging for snacks, and making a burrow your own.
 - **[Neil at Large](https://apps.apple.com/us/app/neil-at-large/id6796547983)**: a playful coastal-town puzzle adventure about causing good-natured chaos as a very determined elephant seal.
 
 ### Private AI & Media Tools
