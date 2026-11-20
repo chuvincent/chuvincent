@@ -15,6 +15,7 @@ I started coding as a kid and still build outside of work. Lately I’ve focused
 
 - **[CantoRelay](https://www.vincentchu.com/cantorelay.html)**: hear offline Cantonese–Mandarin translations spoken in your own cloned voice, with speech recognition, translation, and voice synthesis running on-device.
 - **[Silo Vault](https://algorithm.604apps.com/app/)**: a privacy-first, on-device voice conversation with Silo's fictional Algorithm, powered in Chrome by speech recognition, Gemini Nano, and Pocket TTS.
+- **[Interview Coach](https://interview.604apps.com/app/)** — practice role-specific mock interviews in compatible desktop Chrome, with on-device AI that asks spoken follow-up questions and generates a coaching report.
 - **[Read Aloud EBook](https://apps.apple.com/ca/app/read-aloud-ebook/id6748571026)**: turn ebooks into audiobooks with local LLM summaries.
 - **[Bookletto for Family](https://apps.apple.com/ca/app/bookletto-for-family/id6759843812)**: create personalized stories with on-device AI and enjoy them with built-in read-aloud playback.
 - **[Video Twin Finder](https://apps.apple.com/ca/app/videotwin-finder/id6762066614?mt=12)**: native macOS app for finding exact duplicate and visually similar videos, with side-by-side review, metadata inspection, cached rescans, and Finder/Trash cleanup workflows.
